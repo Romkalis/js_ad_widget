@@ -15,6 +15,7 @@
     overflow: hidden;
 }
 
+
 .body:after {
     position: absolute;
     top: -5%;
